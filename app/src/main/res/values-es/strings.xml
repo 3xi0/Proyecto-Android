@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto Android</string>
+    <string name="compare_button_text">Comparar</string>
+    <string name="first_field_default_text" >Primer campo</string>
+    <string name="second_field_default_text" >Segundo campo</string>
+    <string name="compare_result_success">Los campos son iguales</string>
+    <string name="compare_result_failure">Los campos son distintos</string>
+</resources>

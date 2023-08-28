@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android project</string>
+    <string name="compare_button_text">Compare</string>
+    <string name="first_field_default_text" >First field</string>
+    <string name="second_field_default_text" >Second field</string>
+    <string name="compare_result_success">Both fields are equal</string>
+    <string name="compare_result_failure">The fields are different</string>
+</resources>
